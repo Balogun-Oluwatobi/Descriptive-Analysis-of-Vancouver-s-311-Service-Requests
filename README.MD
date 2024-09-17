@@ -49,26 +49,31 @@ The most utilized means of submitting the requests was the telephone in the two 
 Figure 3:
 Time Series On The Number of Service Requests
 
+![Time Series](https://github.com/user-attachments/assets/bbb18b4d-3b80-48c1-9ae6-a3fdc18c37f1)
 
 
 Figure 4: 
 The Type of Service Request
 
+![Service Request Type](https://github.com/user-attachments/assets/3c59c64c-5704-478b-a1b9-db544151b92c)
 
 
 Figure 5:
 The Distribution of Submission Channels Used.
 
+![Submission Channels Distribution](https://github.com/user-attachments/assets/bdff4da9-6d46-40c0-ab1a-db6d9bb8a329)
 
 
 Figure 6:
 The Request Durations In Days.
 
+![Service Request Duration](https://github.com/user-attachments/assets/91a54303-2993-4ab7-b52c-f59842ed8760)
 
 
 Figure 7:
 Local Area Distribution Comparison:
 
+![Top 5 Local Areas](https://github.com/user-attachments/assets/f633dc1a-99cd-4ae8-b72f-9ac2dd9b9729)
 
 The visualizations show how Vancouver 311 service requests differ in Year 2023 and Year 2024. The first chart (Figure 3) is the Time Series chart that indicates the total of service requests using different trend lines for each year and having different trends, where 2023 has more requests in the initial months of the year, and 2024 has upward tendency from the late months of the year 2023 and increasing till the early months of 2024. Figure 4 shows the most frequent service requests: the “City Services Feedback Case” is on the top of the 2023 and 2024 lists.  Figure 5 features two pie charts illustrating the submission channels of service requests for 2023 and 2024. In both years, most service requests were made via phone, as indicated by the large sections with a lighter green shade in both figures. Methods like chat, email, social media, mail, and mail-out are not often employed relative to phone submissions. Figure 6 displays the range of service request duration, where most requests are handled in less than 50 days. In addition, there is a summary of request duration in terms of mean and standard deviation, with mean request time around twelve days with a maximum reaching 653 days. Figure 7 shows the counties with the most requested services, indicating that downtown is the leading city in both years. Ultimately, these visualizations focus on differences in service request patterns between the two years.
 
